@@ -10,7 +10,9 @@
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "homepage": "https://Oni-hub-sys.github.io/my-portfolio"
+
   },
   "scripts": {
     "start": "react-scripts start",
@@ -38,6 +40,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
- 
 }
